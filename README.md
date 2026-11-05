@@ -1,5 +1,4 @@
-git
-```markdown
+
 # 🖊️ Detectar Caneta Azul
 
 Projeto simples em Python utilizando **OpenCV** e **NumPy** para detectar objetos de cor azul (especificamente uma caneta) em tempo real através da webcam.
