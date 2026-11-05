@@ -1,5 +1,4 @@
-Aqui está um modelo de `README.md` bem básico, direto e organizado para o seu projeto:
-
+git
 ```markdown
 # 🖊️ Detectar Caneta Azul
 
